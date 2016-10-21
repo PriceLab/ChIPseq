@@ -14,4 +14,4 @@ def executableProgramFound(programName):
 
 #--------------------------------------------------------------------------------
 assert(executableProgramFound("cufflinks")) 
-assert(executableProgramFound("bowtie")) 
+assert(executableProgramFound("bowtie2")) 
